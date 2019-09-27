@@ -39,6 +39,7 @@ p {
 h3 {
     color: rgb(8, 70, 8);
     border: 2px solid #70AD40;
+    border-radius: 10px;
 }
 
 
